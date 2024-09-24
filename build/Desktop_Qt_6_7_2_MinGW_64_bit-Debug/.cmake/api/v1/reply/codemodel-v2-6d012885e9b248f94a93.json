@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5c498429f6c71d363e90.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "calculatrice",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "calculatrice::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calculatrice-Debug-b6b8643b754f594c9633.json",
+					"name" : "calculatrice",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calculatrice_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calculatrice_autogen-Debug-dd8fae14045d10a42863.json",
+					"name" : "calculatrice_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "calculatrice_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-calculatrice_autogen_timestamp_deps-Debug-b73a2a2ba3bfe43123f6.json",
+					"name" : "calculatrice_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/eloua/Documents/src/c++/QT/calculatrice/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/eloua/Documents/src/c++/QT/calculatrice"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
