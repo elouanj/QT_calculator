@@ -1,1 +1,1 @@
-Traning to QT by designing a calculator
+QT traning by designing a calculator
