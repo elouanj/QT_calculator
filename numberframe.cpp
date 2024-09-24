@@ -9,6 +9,7 @@ NumberFrame::NumberFrame(QWidget *parent)
     //QLCDNumber *screen = new QLCDNumber;
     screen = new QLCDNumber();
 
+    //grid creation
     QGridLayout *gridLayout = new QGridLayout;
 
     QPushButton *b0 = new QPushButton("0");
